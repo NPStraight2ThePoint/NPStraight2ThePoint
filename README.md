@@ -3,7 +3,7 @@
 
 ## 🔹 About Me  
 I'm passionate about **building financial data pipelines**, applying **machine learning to investing**, and **automating portfolio construction**.  
-- 💼 Business Analyst transitioning into **data-driven finance & ML**  
+- 💼 Financial Business Analyst  
 - 🏗️ Developing **ETL workflows** for structured financial data  
 - 📊 Optimizing **portfolio strategies using ML insights**  
 
