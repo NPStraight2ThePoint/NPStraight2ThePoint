@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hey, I'm [Your Name] ([@your-github-handle](https://github.com/your-github-handle))  
+🚀 Financial Data Engineer | ML for Quant Investing | API Workflows & ETL  
 
-<!--
-**NPStraight2ThePoint/NPStraight2ThePoint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔹 About Me  
+I'm passionate about **building financial data pipelines**, applying **machine learning to investing**, and **automating portfolio construction**.  
+- 💼 Business Analyst transitioning into **data-driven finance & ML**  
+- 🏗️ Developing **ETL workflows** for structured financial data  
+- 📊 Optimizing **portfolio strategies using ML insights**  
 
-Here are some ideas to get you started:
+## 🚀 What I’m Working On  
+🔹 Enhancing & optimizing my existing repos  
+🔹 Developing new **ETL pipelines for financial APIs**  
+🔹 Creating **ML-driven portfolio analytics**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects  
+🌟 **Simply Wall St API Workflow** – [Repo Link](https://github.com/NPStraight2ThePoint/Simply-Wall-St-API-Workflow)  
+📊 **Yahoo Finance Data Pipeline** – [Repo Link](https://github.com/NPStraight2ThePoint/Yahoo-Finance-API-Workflow)  
+💡 **ML-Based Portfolio Optimizer** (Coming Soon!)  
+
+## 📫 Let's Connect!  
+💼 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/nicholas-papadimitris/)  
+📧 **Email**: nicholas.papadimitris@gmail.com
+
+
