@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Your Name] ([@your-github-handle](https://github.com/your-github-handle))  
+# 👋 Hey, I'm [Your Name] ([@your-github-handle](NPStraight2ThePoint))  
 🚀 Financial Data Engineer | ML for Quant Investing | API Workflows & ETL  
 
 ## 🔹 About Me  
