@@ -14,7 +14,7 @@ I'm passionate about **building financial data pipelines**, applying **machine l
 
 ## 📌 Featured Projects  
 🌟 **Simply-Wall-St-API-ETL-for-Financial-Data-Analysis** – [Repo Link](https://github.com/NPStraight2ThePoint/Simply-Wall-St-API-ETL-for-Financial-Data-Analysis)
-📊 **Yahoo-Finance-API-ETL-for-Financial-Data-Analysis** – [Repo Link](https://github.com/NPStraight2ThePoint/Yahoo-Finance-API-ETL-for-Financial-Data-Analysis)  
+🌟 **Yahoo-Finance-API-ETL-for-Financial-Data-Analysis** – [Repo Link](https://github.com/NPStraight2ThePoint/Yahoo-Finance-API-ETL-for-Financial-Data-Analysis)  
 💡 **ML-Based Portfolio Optimizer** (Coming Soon!)  
 
 ## 📫 Let's Connect!  
