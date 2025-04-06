@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Nick] ([@NPStraight2ThePoint](https://github.com/NPStraight2ThePoint))
+# 👋 Hey, I'm [Nick](https://github.com/NPStraight2ThePoint)
 🚀 Financial Data Engineer | ML for Quant Investing | API Workflows & ETL  
 
 ## 🔹 About Me  
