@@ -10,7 +10,7 @@ I'm passionate about **building financial data pipelines**, applying **machine l
 ## 🚀 What I’m Working On  
 🔹 Enhancing & optimizing my existing repos  
 🔹 Developing new **ETL pipelines for financial APIs**  
-🔹 Creating **ML-driven portfolio analytics**  
+🔹 Creating **ML-driven portfolio analytics & Investing/Trading Strategies**  
 
 ## 📌 Featured Projects  
 🌟 **Simply-Wall-St-API-ETL-for-Financial-Data-Analysis** – [Repo Link](https://github.com/NPStraight2ThePoint/Simply-Wall-St-API-ETL-for-Financial-Data-Analysis)
