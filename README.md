@@ -2,7 +2,7 @@
 🚀 Financial Data Engineer | ML for Quant Investing | API Workflows & ETL | Algo Trading  
 
 ## 🔹 About Me  
-I'm passionate about **building financial data pipelines**, applying **machine learning to investing**, and **automating portfolio construction**.  
+I'm passionate about **building financial data pipelines**, applying **machine learning to investing**, and **optimising portfolio construction**.  
 - 💼 Financial Business Analyst  
 - 🏗️ Developing **ETL workflows** for structured financial data  
 - 📊 Optimizing **portfolio strategies using ML insights**  
