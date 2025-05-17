@@ -25,4 +25,6 @@ I'm passionate about **building financial data pipelines**, applying **machine l
 💼 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/nicholas-papadimitris/)  
 📧 **Email**: nicholas.papadimitris@gmail.com
 
+*vibe coding my way to the top 🚀* 
+
 
