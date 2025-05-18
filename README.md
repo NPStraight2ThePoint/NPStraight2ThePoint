@@ -1,6 +1,6 @@
 # 👋 Hey, I'm [Nick](https://github.com/NPStraight2ThePoint)
 
-🚀 I build **financial data pipelines**, apply **machine learning to quantitative investing** and develop **API-powered ETL workflows** for real-world portfolio insights.
+🚀 I build **financial data pipelines**, apply **machine learning for quantitative investing/trading** and develop **API-ETL workflows** for real-world portfolio insights.
 
 💼 Financial Data Engineer | Quant Investing | API Workflows & ETL | Portfolio Optimization | Algo Trading  
 
@@ -10,9 +10,9 @@
 I'm passionate about turning raw financial data into intelligent, actionable investing strategies.  
 I specialize in:
 
-- 🏗️ Designing **ETL workflows** that pull and structure financial data from APIs  
-- 🤖 Applying **machine learning** to portfolio construction and signal generation  
-- 📊 Building scalable tools for **data-driven investing & quantitative research**
+- 🏗️ Designing **ETL workflows** that pull and structure financial data from APIs into SQL DB  
+- 🤖 Applying **machine learning** for portfolio construction
+- 📊 Building scalable tools for **data-driven investing/trading & quantitative research**
 
 ---
 
@@ -20,7 +20,7 @@ I specialize in:
 - ⚙️ Enhancing & optimizing existing data pipeline repositories  
 - 🔌 Developing new **API-to-SQL ETL frameworks**  
 - 🧠 Creating **ML-based portfolio analytics** and investing/trading strategies  
-- 🧪 Testing robust methods for **quant signals, optimization, and backtesting**
+- 🧪 Testing robust methods for **quant signals, optimization and backtesting**
 
 ---
 
