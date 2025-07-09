@@ -26,17 +26,17 @@ I specialize in:
 
 ## 📌 Featured Projects
 
-🌟 **[Financial API → SQL ETL Pipeline](https://github.com/NPStraight2ThePoint/Simply-Wall-St-API-ETL-for-Financial-Data-Analysis)**  
+🌟 **[sws-api-etl-orchestration](https://github.com/NPStraight2ThePoint/Simply-Wall-St-API-ETL-for-Financial-Data-Analysis)**  
 ETL pipeline that extracts structured financial data from financial API, loads it into PostgreSQL, and enables further downstream stock analysis.
 
-🌟 **[End-to-End Financial Data Pipeline + Analytics](https://github.com/NPStraight2ThePoint/end-to-end-financial-data-pipeline)**  
+🌟 **[sws-api-etl-nlp-bi-end2end](https://github.com/NPStraight2ThePoint/end-to-end-financial-data-pipeline)**  
 A complete workflow: from API data acquisition to SQL storage, NLP/Regex data enhancement, portfolio analytics/optimization & BI visualization dashboards.
 
-🌟 **[Yahoo Finance API ETL for Financial Analysis](https://github.com/NPStraight2ThePoint/yahooquery-etl-postgresql-prod)**  
+🌟 **[yahooquery-etl-postgresql](https://github.com/NPStraight2ThePoint/yahooquery-etl-postgresql-prod)**  
 Flexible Python ETL project that fetches historical financial market data from Yahoo Finance, transforms and stores it in SQL DB for further analysis.
 
-💡 **ML-Based Portfolio Optimizer** *(Coming Soon)*  
-End-to-end optimizer for maximizing Sharpe Ratio using custom risk-adjusted models and analyst target data.
+💡 *[ml-pipeline-sharpe_ratio-universe** **(https://github.com/NPStraight2ThePoint/ML_Linear_Forecast_Optimisation)** 
+Linear price targets for various window settings plus universe of Sharpe ratio in & out of sample.
 
 ---
 
