@@ -35,7 +35,7 @@ A complete workflow: from API data acquisition to SQL storage, NLP/Regex data en
 🌟 **[yahooquery-etl-postgresql](https://github.com/NPStraight2ThePoint/yahooquery-etl-postgresql-prod)**  
 Flexible Python ETL project that fetches historical financial market data from Yahoo Finance, transforms and stores it in SQL DB for further analysis.
 
-💡 *[ml-pipeline-sharpe_ratio-universe** **(https://github.com/NPStraight2ThePoint/ML_Linear_Forecast_Optimisation)** 
+💡 **[ml-pipeline-sharpe_ratio-universe](https://github.com/NPStraight2ThePoint/ML_Linear_Forecast_Optimisation)** 
 Linear price targets for various window settings plus universe of Sharpe ratio in & out of sample.
 
 ---
