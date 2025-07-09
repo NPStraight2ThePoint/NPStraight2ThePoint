@@ -32,7 +32,7 @@ ETL pipeline that extracts structured financial data from financial API, loads i
 🌟 **[End-to-End Financial Data Pipeline + Analytics](https://github.com/NPStraight2ThePoint/end-to-end-financial-data-pipeline)**  
 A complete workflow: from API data acquisition to SQL storage, NLP/Regex data enhancement, portfolio analytics/optimization & BI visualization dashboards.
 
-🌟 **[Yahoo Finance API ETL for Financial Analysis](https://github.com/NPStraight2ThePoint/Yahoo-Finance-API-ETL-for-Financial-Data-Analysis)**  
+🌟 **[Yahoo Finance API ETL for Financial Analysis](https://github.com/NPStraight2ThePoint/yahooquery-etl-postgresql-prod)**  
 Flexible Python ETL project that fetches historical financial market data from Yahoo Finance, transforms and stores it in SQL DB for further analysis.
 
 💡 **ML-Based Portfolio Optimizer** *(Coming Soon)*  
