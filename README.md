@@ -1,90 +1,117 @@
-# 👋 Hey, I'm [Nick](https://github.com/NPStraight2ThePoint)
+# 👋 Hey, I'm Nick
 
-🚀 I build **financial data pipelines**, apply **machine learning for quantitative investing/trading** and develop **API-ETL workflows** for real-world portfolio insights.
+🚀 I design and build **TestOps, data workflows, and simulation systems** for financial platforms.
 
-💼 Financial Data Engineer | Quant Investing | API Workflows & ETL | Portfolio Optimization | Algo Trading  
-
----
-
-## 🔹 About Me  
-I'm passionate about turning raw financial data into intelligent, actionable investing strategies.  
-I specialize in:
-
-- 🏗️ Designing **ETL workflows** that pull and structure financial data from APIs into SQL DB  
-- 🤖 Applying **machine learning** for portfolio construction
-- 📊 Building scalable tools for **data-driven investing/trading & quantitative research**
+💼 Financial Systems | TestOps | Data Engineering | Workflow Automation | Quant & Analytics  
 
 ---
 
-## 🚀 Current Focus  
-- ⚙️ Enhancing & optimizing existing data pipeline repositories  
-- 🔌 Developing new **API-to-SQL ETL frameworks**  
-- 🧠 Creating **ML-based portfolio analytics** and investing/trading strategies  
-- 🧪 Testing robust methods for **quant signals, optimization and backtesting**
+## 🧠 What I Do
+
+I work at the intersection of **financial systems, data engineering, and testing automation**, building structured frameworks that turn complex workflows into **repeatable, testable systems**.
+
+My focus is on:
+
+- 🧪 **TestOps Frameworks**  
+  Metadata-driven regression systems for validating outputs across environments  
+
+- 🔁 **Workflow Simulation**  
+  End-to-end execution engines that simulate real financial processes (trades → pricing → reporting)  
+
+- 🧬 **Data Generation Engines**  
+  Constraint-aware data generation for improving test coverage and scenario testing  
+
+- ⚙️ **ETL & Data Pipelines**  
+  API-driven and database-integrated pipelines for financial data workflows  
+
+- 📊 **Quant & Analytics**  
+  Portfolio analytics, optimization, and data-driven investment research  
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Current Focus
 
-🌟 **[sws-api-etl-orchestration](https://github.com/NPStraight2ThePoint/Simply-Wall-St-API-ETL-for-Financial-Data-Analysis)**  
-ETL pipeline that extracts structured financial data from financial API, loads it into PostgreSQL, and enables further downstream stock analysis.
+- Building a **modular TestOps stack**:
+  - Data Generation → Workflow Simulation → Output Validation  
 
-🌟 **[sws-api-etl-nlp-bi-end2end](https://github.com/NPStraight2ThePoint/end-to-end-financial-data-pipeline)**  
-A complete workflow: from API data acquisition to SQL storage, NLP/Regex data enhancement, portfolio analytics/optimization & BI visualization dashboards.
+- Developing **Python-based orchestration layer** to connect:
+  - data generation  
+  - workflow execution  
+  - automated validation  
 
-🌟 **[yahooquery-etl-postgresql](https://github.com/NPStraight2ThePoint/yahooquery-etl-postgresql-prod)**  
-Flexible Python ETL project that fetches historical financial market data from Yahoo Finance, transforms and stores it in SQL DB for further analysis.
+- Expanding frameworks into **reusable, production-style systems**
 
-💡 **[ml-pipeline-sharpe_ratio-universe](https://github.com/NPStraight2ThePoint/ML_Linear_Forecast_Optimisation)** 
-Linear price targets for various window settings plus universe of Sharpe ratio in & out of sample.
+---
+
+## 🧱 Core Projects
+
+### 🧪 TestOps Regression Framework *(In Progress)*
+System for comparing outputs across environments using parameterised execution and identifier-based validation.
+
+---
+
+### 🔁 TestOps Workflow Simulator
+Engine for simulating end-to-end financial workflows with dependencies, sequencing, and execution control.
+
+---
+
+### 🧬 Financial DataGen Engine *(In Progress)*
+Framework for generating structured, valid test data using schema constraints and historical patterns.
+
+---
+
+### ⚙️ API ETL Pipelines
+Projects for extracting financial data from APIs, transforming it, and loading into PostgreSQL for downstream analytics.
+
+- [Simply Wall St API ETL](https://github.com/NPStraight2ThePoint/Simply-Wall-St-API-ETL-for-Financial-Data-Analysis)  
+- [End-to-End Financial Data Pipeline](https://github.com/NPStraight2ThePoint/end-to-end-financial-data-pipeline)  
+- [Yahoo Finance ETL](https://github.com/NPStraight2ThePoint/yahooquery-etl-postgresql-prod)  
+
+---
+
+### 📊 Quant & ML Pipelines
+Machine learning and optimization workflows for portfolio construction and signal testing.
+
+- [ML Forecast & Sharpe Optimization](https://github.com/NPStraight2ThePoint/ML_Linear_Forecast_Optimisation)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**:  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
+**Languages**  
+Python | SQL | C# | VBA  
 
-**Libraries & Data Handling**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-ffffff?style=flat&logo=python&logoColor=black)
-![Requests](https://img.shields.io/badge/Requests-ffffff?style=flat&logo=python&logoColor=black)
+**Data & ETL**  
+PostgreSQL | SQLAlchemy | psycopg2 | Pandas  
 
-**Machine Learning & Optimization**  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![pyportfolioopt](https://img.shields.io/badge/pyportfolioopt-4B8BBE?style=flat&logo=python&logoColor=white)
-![cvxpy](https://img.shields.io/badge/cvxpy-003366?style=flat&logo=python&logoColor=white)
+**Workflow & Automation**  
+Python orchestration | Excel/VBA control layers | API integrations  
 
-**Database & ETL**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FF5733?style=flat&logo=python&logoColor=white)
-![psycopg2](https://img.shields.io/badge/psycopg2-2C5D9F?style=flat&logo=python&logoColor=white)
+**Analytics & ML**  
+Scikit-Learn | Optimization (cvxpy, PyPortfolioOpt) | Time Series  
 
-**Visualization & BI**  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E7BB4?style=flat&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+**Visualization**  
+Power BI | Matplotlib | Plotly  
 
-**Other**:  
-- APIs (GraphQL/REST)
-- Financial Modeling  
-- Time Series Analysis  
-- Machine Learning for Quant  
-- Data Warehousing & ETL  
+---
+
+## 💥 What Makes My Work Different
+
+Most systems:
+- test isolated components  
+- rely on manual QA  
+- lack reproducibility  
+
+My approach:
+> **simulate workflows, generate scenarios, and validate outputs end-to-end**
 
 ---
 
 ## 🌍 Connect With Me
 
-📧 **Email**: nicholas.papadimitris@gmail.com  
-💼 **LinkedIn**: [nicholas-papadimitris](https://www.linkedin.com/in/nicholas-papadimitris/)  
+📧 nicholas.papadimitris@gmail.com  
+💼 https://www.linkedin.com/in/nicholas-papadimitris/  
 
 ---
 
-> *"Vibe coding my way to the top 🚀"*
-
----
-
+> Building systems, not scripts 🚀
