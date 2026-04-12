@@ -1,78 +1,92 @@
 # 👋 Hey, I'm Nick
 
-🚀 I design and build **TestOps, data workflows, and simulation systems** for financial platforms.
+🚀 I design and build **TestOps and data-driven automation systems** for financial platforms.
 
-💼 Financial Systems | TestOps | Data Engineering | Workflow Automation | Quant & Analytics  
+💼 Financial Systems | TestOps | Data Engineering | Workflow Automation  
 
 ---
 
 ## 🧠 What I Do
 
-I work at the intersection of **financial systems, data engineering, and testing automation**, building structured frameworks that turn complex workflows into **repeatable, testable systems**.
+I work at the intersection of **financial systems, data engineering, and testing**, building frameworks that turn complex workflows into **repeatable, testable, and scalable systems**.
 
 My focus is on:
 
 - 🧪 **TestOps Frameworks**  
-  Metadata-driven regression systems for validating outputs across environments  
+  Automated validation systems for comparing outputs across environments and detecting discrepancies  
+
+- 🧬 **Test Data Generation**  
+  Metadata-driven engines that generate structured, realistic, and scalable datasets  
 
 - 🔁 **Workflow Simulation**  
-  End-to-end execution engines that simulate real financial processes (trades → pricing → reporting)  
-
-- 🧬 **Data Generation Engines**  
-  Constraint-aware data generation for improving test coverage and scenario testing  
+  Execution engines that simulate real financial processes (trades → pricing → reporting)  
 
 - ⚙️ **ETL & Data Pipelines**  
   API-driven and database-integrated pipelines for financial data workflows  
 
-- 📊 **Quant & Analytics**  
-  Portfolio analytics, optimization, and data-driven investment research  
+- 📊 **Analytics & Quant Systems**  
+  Portfolio analytics, optimisation, and data-driven research  
 
 ---
 
 ## 🚀 Current Focus
 
-- Building a **modular TestOps stack**:
-  - Data Generation → Workflow Simulation → Output Validation  
+Building a **modular TestOps stack**:
 
-- Developing **Python-based orchestration layer** to connect:
-  - data generation  
-  - workflow execution  
-  - automated validation  
+Data Generation → Workflow Simulation → Output Validation
 
-- Expanding frameworks into **reusable, production-style systems**
+- Connecting components through a **Python orchestration layer**
+- Designing frameworks as **reusable, production-style systems**
+- Focusing on **coverage, correctness, and reproducibility**
 
 ---
 
 ## 🧱 Core Projects
 
-### 🧪 TestOps Regression Framework *(In Progress)*
-System for comparing outputs across environments using parameterised execution and identifier-based validation.
-- [Env Based Regression Framework](https://github.com/testops-intelli/environment-based-regression-framework)  
----
+### 🧪 TestOps – Regression Framework (ART)
+Environment-based regression testing system for validating financial reporting outputs across environments.
 
-### 🔁 TestOps Workflow Simulator
-Engine for simulating end-to-end financial workflows with dependencies, sequencing, and execution control.
+🔗 https://github.com/testops-intelli/environment-based-regression-framework  
 
----
-
-### 🧬 Financial DataGen Engine *(In Progress)*
-Framework for generating structured, valid test data using schema constraints and historical patterns.
+- Metadata-driven execution and comparison  
+- Parameterised test coverage  
+- Field-level discrepancy detection  
+- Fully runnable public demo  
 
 ---
+
+### 🧬 TestOps – Data Generation Framework (DataGen)
+Metadata-driven test data generation system using schema constraints, historical data, and synthetic expansion.
+
+🔗 https://github.com/testops-intelli/test-data-generation-framework  
+
+- Structural parameter space generation  
+- Historical data resolution  
+- Synthetic scenario expansion  
+- End-to-end reproducible environment  
+
+---
+
+### 🔁 TestOps – Workflow Simulator *(In Progress)*
+Engine for simulating end-to-end financial workflows with sequencing, dependencies, and execution control.
+
+---
+
+## 🧩 Legacy & Supporting Projects
 
 ### ⚙️ API ETL Pipelines
-Projects for extracting financial data from APIs, transforming it, and loading into PostgreSQL for downstream analytics.
+End-to-end pipelines for extracting, transforming, and storing financial data.
 
-- [Simply Wall St API ETL](https://github.com/NPStraight2ThePoint/Simply-Wall-St-API-ETL-for-Financial-Data-Analysis)  
-- [End-to-End Financial Data Pipeline](https://github.com/NPStraight2ThePoint/end-to-end-financial-data-pipeline)  
-- [Yahoo Finance ETL](https://github.com/NPStraight2ThePoint/yahooquery-etl-postgresql-prod)  
+- https://github.com/NPStraight2ThePoint/Simply-Wall-St-API-ETL-for-Financial-Data-Analysis  
+- https://github.com/NPStraight2ThePoint/end-to-end-financial-data-pipeline  
+- https://github.com/NPStraight2ThePoint/yahooquery-etl-postgresql-prod  
 
 ---
 
-### 📊 Quant & ML Pipelines
-Machine learning and optimization workflows for portfolio construction and signal testing.
+### 📊 Quant & ML Systems
+Machine learning and optimisation workflows for portfolio construction and signal testing.
 
-- [ML Forecast & Sharpe Optimization](https://github.com/NPStraight2ThePoint/ML_Linear_Forecast_Optimisation)
+- https://github.com/NPStraight2ThePoint/ML_Linear_Forecast_Optimisation  
 
 ---
 
@@ -85,17 +99,17 @@ Python | SQL | C# | VBA
 PostgreSQL | SQLAlchemy | psycopg2 | Pandas  
 
 **Workflow & Automation**  
-Python orchestration | Excel/VBA control layers | API integrations  
+Python orchestration | API integrations | Excel/VBA control layers  
 
 **Analytics & ML**  
-Scikit-Learn | Optimization (cvxpy, PyPortfolioOpt) | Time Series  
+Scikit-Learn | cvxpy | PyPortfolioOpt | Time Series  
 
-**Visualization**  
+**Visualisation**  
 Power BI | Matplotlib | Plotly  
 
 ---
 
-## 💥 What Makes My Work Different
+## 💥 Approach
 
 Most systems:
 - test isolated components  
@@ -103,7 +117,8 @@ Most systems:
 - lack reproducibility  
 
 My approach:
-> **simulate workflows, generate scenarios, and validate outputs end-to-end**
+
+Simulate workflows, generate scenarios, and validate outputs end-to-end
 
 ---
 
@@ -114,4 +129,4 @@ My approach:
 
 ---
 
-> Building systems, not scripts 🚀
+Building systems, not scripts 🚀
