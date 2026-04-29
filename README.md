@@ -4,21 +4,6 @@
 
 💼 Financial Systems | TestOps | Data Engineering | Automation
 
-
-🧭 Start Here
-
-If you're new, these are the best entry points:
-
-• ETL Framework → Fault-tolerant API ingestion and reconciliation  
-https://github.com/NPStraight2ThePoint/yahooquery-etl-postgresql-prod
-
-• DataGen → State-space test data generation  
-https://github.com/testops-intelli/test-data-generation-framework
-
-• ART → Environment-based regression validation  
-https://github.com/testops-intelli/environment-based-regression-framework
-
-
 🧠 What I Build
 
 I build systems for generating, simulating, and validating data workflows in financial platforms.
